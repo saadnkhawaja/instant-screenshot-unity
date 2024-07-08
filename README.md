@@ -1,5 +1,7 @@
 # Instant Screenshot - Unity Asset
 
+![Instant Screenshot Demo](https://github.com/saadnkhawaja/instant-screenshot-unity/blob/main/instant-demo.gif)
+
 Capture high-quality screenshots from your Unity scenes with ease. Instant Screenshot is a nifty editor utility designed to streamline your development workflow by providing simple, one-click options to capture screenshots directly within the Unity Editor.
 
 ## Features
@@ -15,10 +17,6 @@ Capture high-quality screenshots from your Unity scenes with ease. Instant Scree
 2. Place the `InstantScreenshot.cs` file inside an `Editor` folder in your project's assets.
 3. Goto Tools->Saad Khawaja->Instant Screenshot->Open Window to open the editor window
 
-## Demo
-
-See the tool in action:
-![Instant Screenshot Demo](https://github.com/saadnkhawaja/instant-screenshot-unity/blob/main/instant-demo.gif)
 
 Feel free to reach out with any issues or suggestions through the Issues tab or directly via the email provided in the contact section.
 
