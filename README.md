@@ -18,7 +18,7 @@ Capture high-quality screenshots from your Unity scenes with ease. Instant Scree
 ## Demo
 
 See the tool in action:
-![Instant Screenshot Demo]([https://example.com/path_to_your_gif.gif](https://github.com/saadnkhawaja/instant-screenshot-unity/blob/main/instant-demo.gif))
+![Instant Screenshot Demo](https://github.com/saadnkhawaja/instant-screenshot-unity/blob/main/instant-demo.gif)
 
 Feel free to reach out with any issues or suggestions through the Issues tab or directly via the email provided in the contact section.
 
